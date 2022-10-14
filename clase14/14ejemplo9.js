@@ -17,3 +17,4 @@ function validarForm(){
         alert('No es valido')
     }
 }
+
