@@ -1,0 +1,13 @@
+
+
+#mensaje{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    display: inline-flex;
+    color: rgb(127, 16, 127);
+    font-weight: 700;
+    padding: 30px;
+    background-color: gold;
+    border: 2px solid gray;
+}
