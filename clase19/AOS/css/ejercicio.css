@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+
+.bloque{
+    background-color: burlywood;
+    width: 30%;
+    margin: 0 auto 20px;
+    padding: 100px;
+    border: 2px solid gainsboro;
+    text-align: center;
+}
+
