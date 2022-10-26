@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $window = $(window);
 
-    $('#intro').height($window.height());
+    $('#intro').height($window.height());  //adapta al ancho de ventana
     $window.scroll(function(){
         $('div.background').each(function(index,item){
             let $scroll = $(item);
