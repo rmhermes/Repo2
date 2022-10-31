@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+.caja{
+    display: flex;
+    justify-content: center;
+}
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.uno{
+    background-color: aquamarine;
+
+}
+.dos{
+    background-color: rgb(4, 19, 184);
+}
+.tres{
+    background-color: rgb(125, 120, 7);
+
+}
